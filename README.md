@@ -1,6 +1,15 @@
-# realestate
+# Real Estate App
 
-A new Flutter application.
+Clean and minimal design made using Flutter.
+
+<div style="text-align: center"><table><tr>
+<td style="text-align: center">
+ <img src="real_estate1.png" width="610" />
+ </td>
+<td style="text-align: center">
+ <img src="real_estate2.png" width="610"/>
+ </tr></table>
+ </div>
 
 ## Getting Started
 
